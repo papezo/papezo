@@ -21,7 +21,7 @@
 
 ###
 
-<p align="center">I'm Computer Science Student at VŠB-TUO Ostrava | ASP.NET Developer<br><br>- 🔭 I’m currently working on Cloud based web application.<br>- 📚 I'm currently learning Python, Kubernetes and Cybersecurity<br>- ⚡ In my free time I code, read books and go at gym.</p>
+<p align="center">I'm Computer Science Student at VŠB-TUO Ostrava | ASP.NET Developer<br><br>- 🔭 I’m currently working on Cloud based web application.<br>- 📚 I'm currently learning Python, Kubernetes and Cybersecurity<br>- ⚡ In my free time I code, read books and go to the gym.</p>
 
 ###
 
