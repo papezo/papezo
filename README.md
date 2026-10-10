@@ -14,7 +14,7 @@
 
 ###
 
-<p align="center">I'm Computer Science Student at VŠB-TUO Ostrava | ASP.NET Developer<br>📚 I'm currently learning Kernel Development and Cybersecurity<br>- ⚡ In my free time I code, read books and go to the gym.</p>
+<p align="center">I'm Computer Science Student at VŠB-TUO Ostrava | C/C++ Developer<br>📚 I'm currently learning Kernel Development and Cybersecurity<br>- ⚡ In my free time I code, read books and go to the gym.</p>
 
 ###
 
